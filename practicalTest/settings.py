@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-m7-r@vefmb+pjr16xj_phk5ktx27)th$(#pdi%cy52*m9p@!!%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cammycon.pythonanywhere.com']
 
 
 # Application definition
